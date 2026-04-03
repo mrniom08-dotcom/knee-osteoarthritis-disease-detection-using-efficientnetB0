@@ -8,7 +8,8 @@ The workflow includes data preprocessing, class balancing, and transfer learning
 
 
 Key Features:
-EfficientNet-B0 based lightweight model
-Three-class OA severity classification
-Data augmentation and class balancing
-High accuracy with efficient computation
+
+1.EfficientNet-B0 based lightweight model
+2.Three-class OA severity classification
+3.Data augmentation and class balancing
+4.High accuracy with efficient computation
